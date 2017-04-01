@@ -1,0 +1,1 @@
+On ne stocke pas l'id de notre personnage côté client. La demander au serveur une fois qu'on s'est connecté.

@@ -1,0 +1,27 @@
+{
+  "name": "talenka3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pouet--/Talenka3D.git"
+  },
+  "author": "Boz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pouet--/Talenka3D/issues"
+  },
+  "homepage": "https://github.com/Pouet--/Talenka3D#readme",
+  "engines": {
+    "node": "6.10.1"
+  }
+}

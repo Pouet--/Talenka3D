@@ -1,0 +1,62 @@
+*
+{
+	margin: 0;
+}
+
+html
+{
+	height: 100%;
+	background: #369 radial-gradient(#369,#123);
+}
+
+svg, div {
+	display: block;
+	margin: 1% auto;
+}
+
+div {
+	font-family: 'helvetica neue';
+	text-align: center;
+	width: 25em;
+	max-width: 92%;
+	background: #fff;
+	padding: 10px;
+	border-radius: 7px;
+}
+
+p {
+	font-size: 92%;
+	text-align: justify;
+}
+
+h1 {
+	font-size: 1em;
+	margin-top: 4%;
+}
+
+fieldset {
+	margin: 0 0 4%;
+	border: 1px #ccc solid;
+	padding: 4px;
+}
+
+input {
+	margin: 4px;
+	width: 45%;
+}
+
+nav {
+	font-size: 67%;
+}
+
+a {
+	color:#0a0;
+}
+
+.alert {
+	background-color: #eea236;
+}
+
+.valid {
+	background-color: rgb(30, 255, 30);
+}
